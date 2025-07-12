@@ -59,3 +59,26 @@ h5{
   font-weight: 400;
   font-style: normal;
 }
+#logoP {
+    display: flex;
+    margin-left: 755px;
+    width: 180px;
+    height: 180px;
+
+}
+#usuario{
+    margin-left: 1510px;
+    display: grid;
+}
+#carrinho{
+    display: grid;
+    margin-left: 1510px;
+}
+.user {
+    display: flex;
+    margin-left: 10px;
+}
+.bag{
+
+    margin-left: 15px;
+}
